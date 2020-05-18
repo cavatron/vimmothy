@@ -1,0 +1,8 @@
+version: '3.8'
+
+services: 
+  vimmothy:
+    build: .
+    env_file: .env
+    volumes:
+      - ${OUTPUT_DIR}:/usr/src/app/out
