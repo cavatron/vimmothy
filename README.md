@@ -20,3 +20,7 @@ Further preserving the classics
 ## Troubleshooting
 
 If it hangs on launch, delete the output directory and try again. 
+
+---
+
+![vimmothy](./img/vimmothy.jpg)
